@@ -1,2 +1,2 @@
-# framework
+# slingshot
 first Mesos framework

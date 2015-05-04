@@ -51,6 +51,12 @@
             <artifactId>logback-classic</artifactId>
             <version>${version.logback-classic}</version>
         </dependency>
+        <!-- Mesos -->
+        <dependency>
+            <groupId>org.apache.mesos</groupId>
+            <artifactId>mesos</artifactId>
+            <version>${version.mesos}</version>
+        </dependency>
     </dependencies>
     
 </project>
